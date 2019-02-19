@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xml:com.springsource.org.apache.xml.resolver:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xml/com.springsource.org.apache.xml.resolver/1.2.0/e0fca0b73f7c5016eb304545c4dcfc9996ed81bb/com.springsource.org.apache.xml.resolver-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xml/com.springsource.org.apache.xml.resolver/1.2.0/6b72432ea1c5296783007365bb7c9a6b39dfb730/com.springsource.org.apache.xml.resolver-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

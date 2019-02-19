@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xerces:com.springsource.org.apache.xerces:2.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/5d009b72b5c36829c994507691f96c14948c9595/com.springsource.org.apache.xerces-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xerces/com.springsource.org.apache.xerces/2.8.1/e9d4f5fd18622884c4e369bba570790100f70f32/com.springsource.org.apache.xerces-2.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
